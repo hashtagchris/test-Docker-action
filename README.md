@@ -1,2 +1,2 @@
-# test-action
+# test-docker-action
 Basic test action
